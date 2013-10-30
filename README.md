@@ -14,10 +14,10 @@ Die Anwendung soll die familientauglichste Orte in Zürich auf einer Karte marki
 
 ## Ideas/Brainstorming
 
-** Heatmap
-** Clustering
-** Adresse eingeben, nächster Kindergarten/Schule, Einkaufsmöglichkeit
-** Freie Wohnung in der Umgebung anzeigen
+* Heatmap
+* Clustering
+* Adresse eingeben, nächster Kindergarten/Schule, Einkaufsmöglichkeit
+* Freie Wohnung in der Umgebung anzeigen
 
 ## Links
 
