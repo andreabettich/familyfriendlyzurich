@@ -1,1 +1,6 @@
 #map { height: 600px; }
+label { margin-bottom: -10px; }
+a:hover { text-decoration: none; }
+.content { margin: 30px 10px 0px;}
+.footer{ margin: 10px; float: right; }
+.title{ margin: 15px; }
